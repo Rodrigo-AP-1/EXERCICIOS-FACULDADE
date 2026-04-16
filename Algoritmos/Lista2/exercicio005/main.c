@@ -23,7 +23,6 @@ int main () {
         media = (n3 * 4 + n1 * 3 + n2 * 3) / 10;
     }
 
-    // Exibe os dados do aluno
     printf("\nMatricula: %s", matricula);
     printf("Notas: %.2f | %.2f | %.2f\n", n1, n2, n3);
     printf("Media: %.2f\n", media);
